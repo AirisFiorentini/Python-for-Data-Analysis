@@ -3,4 +3,12 @@ scipy>=1.9.1
 scikit-learn>=1.1.2
 pandas>=1.4.4
 seaborn>=0.12.0
+<<<<<<< HEAD
 ipywidgets>=8.0.2
+matplotlib>=3.5.3
+plotly>=5.10.0
+sympy>=1.11.1
+h5py>=3.7.0
+=======
+ipywidgets>=8.0.2
+>>>>>>> 96f92aeef4a01a3ff62b1d7b945c03c9d786ea86
